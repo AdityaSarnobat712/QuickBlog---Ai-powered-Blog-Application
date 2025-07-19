@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import BlogTableitem from '../../components/admin/BlogTableitem'
+import BlogTableitem from '../../components/admin/BlogTableItem'
 import { useAppContext } from '../../../context/AppContext'
 
 const Listblog = () => {
